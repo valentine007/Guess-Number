@@ -33,7 +33,7 @@ namespace Guess_Number
             if (radioButton1.Checked)
             {
                 Random r1 = new Random();
-                randNumber = r1.Next(001, 999);
+                randNumber = r1.Next(100, 999);
                 MessageBox.Show(randNumber.ToString());
             }
         }
@@ -43,7 +43,7 @@ namespace Guess_Number
             if (radioButton2.Checked)
             {
                 Random r2 = new Random();
-                randNumber = r2.Next(00001, 99999);
+                randNumber = r2.Next(10000, 99999);
                 MessageBox.Show(randNumber.ToString());
             }
         }
@@ -51,7 +51,7 @@ namespace Guess_Number
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
         {
             Random r3 = new Random();
-            randNumber = r3.Next(0000001, 9999999);
+            randNumber = r3.Next(1000000, 9999999);
             MessageBox.Show(randNumber.ToString());
         }
 
@@ -79,16 +79,17 @@ namespace Guess_Number
             }
             else
             {
-                //for (int i = number; i > 0; i /= 10)
-                //{
-                //    int temp = i % 10;
-                //    for (int j = randNumber; j > 0; j /= 10)
-                //    {
-                //        int temp1 = j % 10;
-                //        if (temp == temp1)
-                //            counter++;
-                //    }
-                //}
+                int temp1 = 0;
+                int temp2 = 0;
+                for (int i = 0; i < 5; ++i)
+                {
+                    temp1 = number % 10;
+                    temp2 = randNumber % 10;
+                    if (temp1 == temp2)
+                        counter++;
+                    number /= 10;
+                    randNumber /= 10;
+                }
                 MessageBox.Show(counter.ToString());
             }
         }
