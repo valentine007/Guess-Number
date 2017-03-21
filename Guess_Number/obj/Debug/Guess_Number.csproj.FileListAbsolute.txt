@@ -6,3 +6,11 @@ D:\Valentine\WindowsForms\Guess_Number\Guess_Number\obj\Debug\Guess_Number.Prope
 D:\Valentine\WindowsForms\Guess_Number\Guess_Number\obj\Debug\Guess_Number.csproj.GenerateResource.Cache
 D:\Valentine\WindowsForms\Guess_Number\Guess_Number\obj\Debug\Guess_Number.exe
 D:\Valentine\WindowsForms\Guess_Number\Guess_Number\obj\Debug\Guess_Number.pdb
+D:\Valentine\WindowsForms\Guess-Number\Guess_Number\bin\Debug\Guess_Number.exe.config
+D:\Valentine\WindowsForms\Guess-Number\Guess_Number\obj\Debug\Guess_Number.exe
+D:\Valentine\WindowsForms\Guess-Number\Guess_Number\obj\Debug\Guess_Number.pdb
+D:\Valentine\WindowsForms\Guess-Number\Guess_Number\bin\Debug\Guess_Number.exe
+D:\Valentine\WindowsForms\Guess-Number\Guess_Number\bin\Debug\Guess_Number.pdb
+D:\Valentine\WindowsForms\Guess-Number\Guess_Number\obj\Debug\Guess_Number.Form1.resources
+D:\Valentine\WindowsForms\Guess-Number\Guess_Number\obj\Debug\Guess_Number.Properties.Resources.resources
+D:\Valentine\WindowsForms\Guess-Number\Guess_Number\obj\Debug\Guess_Number.csproj.GenerateResource.Cache
