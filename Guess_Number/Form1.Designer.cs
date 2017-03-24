@@ -223,6 +223,7 @@
             this.label6.Size = new System.Drawing.Size(35, 37);
             this.label6.TabIndex = 12;
             this.label6.Text = "0";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // label7
             // 
@@ -233,6 +234,7 @@
             this.label7.Size = new System.Drawing.Size(171, 29);
             this.label7.TabIndex = 13;
             this.label7.Text = "00 : 00 : 00 : 00";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // Form1
             // 
