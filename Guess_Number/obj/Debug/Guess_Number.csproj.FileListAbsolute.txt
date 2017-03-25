@@ -14,3 +14,12 @@ D:\Valentine\WindowsForms\Guess-Number\Guess_Number\bin\Debug\Guess_Number.pdb
 D:\Valentine\WindowsForms\Guess-Number\Guess_Number\obj\Debug\Guess_Number.Form1.resources
 D:\Valentine\WindowsForms\Guess-Number\Guess_Number\obj\Debug\Guess_Number.Properties.Resources.resources
 D:\Valentine\WindowsForms\Guess-Number\Guess_Number\obj\Debug\Guess_Number.csproj.GenerateResource.Cache
+C:\Users\student.STEP\Desktop\25.03.2017\Guess-Number-master\Guess_Number\bin\Debug\Guess_Number.exe.config
+C:\Users\student.STEP\Desktop\25.03.2017\Guess-Number-master\Guess_Number\obj\Debug\Guess_Number.exe
+C:\Users\student.STEP\Desktop\25.03.2017\Guess-Number-master\Guess_Number\obj\Debug\Guess_Number.pdb
+C:\Users\student.STEP\Desktop\25.03.2017\Guess-Number-master\Guess_Number\bin\Debug\Guess_Number.exe
+C:\Users\student.STEP\Desktop\25.03.2017\Guess-Number-master\Guess_Number\bin\Debug\Guess_Number.pdb
+C:\Users\student.STEP\Desktop\25.03.2017\Guess-Number-master\Guess_Number\obj\Debug\Guess_Number.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\25.03.2017\Guess-Number-master\Guess_Number\obj\Debug\Guess_Number.Form1.resources
+C:\Users\student.STEP\Desktop\25.03.2017\Guess-Number-master\Guess_Number\obj\Debug\Guess_Number.Properties.Resources.resources
+C:\Users\student.STEP\Desktop\25.03.2017\Guess-Number-master\Guess_Number\obj\Debug\Guess_Number.csproj.GenerateResource.Cache
